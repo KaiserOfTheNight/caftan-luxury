@@ -20,7 +20,7 @@ function Contact() {
         {/* Image */}
         <div>
           <img
-            src="./images/contact.jpg"
+            src="./images/about.png"
             alt="Contact Caftan"
             className="w-full h-[500px] object-cover rounded-2xl"
           />
